@@ -1,0 +1,25 @@
+.zagolovok {
+    color:white;
+    background-color: black;
+}
+#biography,
+#tours,
+#blago,
+#stil,
+#ssilki {
+    color: white;
+    background-color: black;
+}
+.dan {
+    margin-top: 30px;
+}
+a:link {
+    color: green;
+    text-decoration: none;
+}
+a:visited:hover {
+    color:orange;
+}
+a:visited:active {
+    color:red;
+}
