@@ -1,0 +1,63 @@
+.page {
+    width: 1440px;
+    font-family: Helvetica, sans-serif;
+}
+.header {
+    background-color: #E5E000;
+    width: 100%;
+    min-height: 200px;    
+    display: flex;
+    flex-direction: column;
+}
+.name {
+    color: #FFFFFF;
+    margin-top: 80px;
+    margin-left: 80px;
+    font-size: 50px;
+    line-height: 57px;
+}
+.picture {
+    width: 100%;
+    min-height: 1080px;
+    margin-top: 70px;
+    background-image: url('img.jpg');
+}
+.artist {
+    color: #FFFFFF;
+    margin-top: 36px;
+    margin-left: 80px;
+    margin-bottom: 35px;
+    font-size: 25px;    
+}
+.opisanie {
+    font-size: 50px;
+    width: 1280px;
+    min-height: 637px;
+    margin-left: 80px;
+    margin-top: 110px;
+    margin-right: 80px;
+    color: #000000;
+}
+.zagolovok {
+    font-weight: 700;
+}
+.text,
+.text-2,
+.text-3 {
+    font-weight: 300;
+}
+.footer {
+    display: flex;
+    background-color: #E5E000;
+    min-height: 200px;
+    color: #FFFFFF;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 50px;
+}
+.logo {
+    margin-left: 80px;
+}
+.osnova {
+    margin-right: 80px;
+}
